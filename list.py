@@ -7,6 +7,7 @@ class check():
         self.n.remove(b)
     def dis(self):
         return (self.n)
+    
  
 obj=check()
  
