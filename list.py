@@ -5,6 +5,7 @@ class check():
         return self.n.append(a)
     def remove(self,b):
         self.n.remove(b)
+        
     def dis(self):
         return (self.n)
     
